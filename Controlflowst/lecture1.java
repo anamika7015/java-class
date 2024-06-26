@@ -4,7 +4,7 @@ class ABC{
         System.out.println("hello world");
     }
 }
-class XYZ  void extendsplay();s ABC{
+class XYZ extends ABC{
     void display(){
         System.out.println("hello java");
     }

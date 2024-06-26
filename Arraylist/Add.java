@@ -1,6 +1,6 @@
 
 package Arraylist;
-import java.util.*;
+
 
 import java.util.ArrayList;
 
@@ -14,6 +14,6 @@ public class Add {
         list.add(5);
         System.out.println(list);
         System.out.println(list.remove(3));
-        list.Contains(4);
+       
     }
 }
