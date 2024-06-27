@@ -9,6 +9,9 @@ public class Map {
         marks.put("anamika",75);
         marks.put("putul", 67);
         System.out.println(marks);
+        for(String key: marks.keySet()){
+            System.out.println(key);
+        }
 
 
     }
